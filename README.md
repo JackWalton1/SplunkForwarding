@@ -22,5 +22,5 @@ I used an instance of Splunk Enterprise on a DigitalOcean VM. I set up a recieve
 ### My final dashboard for the black and white colorizer webapp.
 <img width="1428" alt="Screenshot 2024-10-24 at 2 37 01 PM" src="https://github.com/user-attachments/assets/cdb5bd3b-0cba-4f09-ba48-3e7b5f943e1d">
 
-# Note
+## Note
 I would disclose the URL of my site, and the nginx reverse-proxy & TLS encyption configuration, but I am afraid of getting DDoS'ed, as my cloud architecture does not autoscale.
