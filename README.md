@@ -1,12 +1,12 @@
-### Forwarding Logs to Splunk
+# Forwarding Logs to Splunk
 
 ## Context
-# Website
+### Website
 I have a website that colorizes black and white images using a PyTorch machine learning model.
 ![Screenshot 2024-10-31 at 3 05 09 PM](https://github.com/user-attachments/assets/b248f1fb-3b1d-4d3c-8b21-fbb1e4432812)
 ![Screenshot 2024-10-31 at 3 05 34 PM](https://github.com/user-attachments/assets/1238b1ff-718a-4679-a96a-97a5b8605845)
 
-# Photo Before and After
+### Photo Before and After
 ![frame_bw](https://github.com/user-attachments/assets/ab0b5aba-301b-48a0-a02b-445915d66e73)
 ![frame_colorized](https://github.com/user-attachments/assets/630ade5c-547c-4e8e-addb-fd428dd90cc9)
 
@@ -14,7 +14,7 @@ I have a website that colorizes black and white images using a PyTorch machine l
 I used an instance of Splunk Enterprise on a DigitalOcean VM. I set up a reciever on this machine. I set up the Splunk Universal Forwarder on the web app host, and forwarded all web traffic logs to Splunk to the indexer 'bw_webapp'. I then made the dashboard above with the logs.
 
 ## Visualizations via Splunk
-# My final dashboard for the black and white colorizer webapp.
+### My final dashboard for the black and white colorizer webapp.
 <img width="1428" alt="Screenshot 2024-10-24 at 2 37 01 PM" src="https://github.com/user-attachments/assets/cdb5bd3b-0cba-4f09-ba48-3e7b5f943e1d">
 
 # Note
