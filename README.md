@@ -5,8 +5,8 @@
 I have a website that colorizes black and white images using a PyTorch machine learning model.
 
 <div>
-    <img src="[https://github.com/user-attachments/assets/ab0b5aba-301b-48a0-a02b-445915d66e73](https://github.com/user-attachments/assets/b248f1fb-3b1d-4d3c-8b21-fbb1e4432812)" alt="main_page" style="display:inline-block; width:45%;"/>
-    <img src="[https://github.com/user-attachments/assets/630ade5c-547c-4e8e-addb-fd428dd90cc9](https://github.com/user-attachments/assets/1238b1ff-718a-4679-a96a-97a5b8605845)" alt="results_page" style="display:inline-block; width:45%;"/>
+    <img src="https://github.com/user-attachments/assets/b248f1fb-3b1d-4d3c-8b21-fbb1e4432812" alt="main_page" style="display:inline-block; width:45%;"/>
+    <img src="https://github.com/user-attachments/assets/1238b1ff-718a-4679-a96a-97a5b8605845" alt="results_page" style="display:inline-block; width:45%;"/>
 </div>
 
 ### Photo Before and After
