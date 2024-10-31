@@ -1,9 +1,7 @@
 # Forwarding Logs to Splunk
-
 ## Context
 ### Website
 I have a website that colorizes black and white images using a PyTorch machine learning model.
-
 <div>
     <img src="https://github.com/user-attachments/assets/b248f1fb-3b1d-4d3c-8b21-fbb1e4432812" alt="main_page" style="display:inline-block; width:45%;"/>
     <img src="https://github.com/user-attachments/assets/1238b1ff-718a-4679-a96a-97a5b8605845" alt="results_page" style="display:inline-block; width:45%;"/>
